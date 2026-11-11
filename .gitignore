@@ -1,0 +1,14 @@
+# 个人便签数据（含私人内容，不入库）
+notes.json
+
+# 本地配置
+config.json
+
+# 日志
+*.log
+sticky.log
+_run.log
+
+# 开发调试脚本与截图
+_dev_*.ps1
+_shot*.png
